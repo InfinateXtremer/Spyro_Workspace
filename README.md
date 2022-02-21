@@ -18,3 +18,9 @@ TODO:
 * Add all the missing animation notifiers.
 * Create a blend file with Spyro's mesh.
 * Create 3D eyes or animate 2D eye curves.
+
+Anim Notify Information:
+
+* AkEvent, plays the provided sound
+* FootStepEvent, self-explanatory has two variables that defines which foot is used for the event and if it is a right foot.
+* PS_, particle system events.
