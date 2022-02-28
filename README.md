@@ -43,7 +43,8 @@ Anim Notify Information:
 2. Export it with default settings
 3. Using Blender 2.79b with PSK importer script
 4. Import your model to blender make sure Reorient bones and Reorient directly options are check
-5. Export your model as fbx with scale set to 0.01 and Add Leaf Bones option unchecked
-6. Import it to this project.
-7. While in import settings select SKEL_CPS1999_Spyro from the skeleton selection.
-8. Cook and pak only your model.
+5. **Change your root bone's rotation to 0 (Head X,Y,Z = 0 - Tail X,Z = 0 Y = 1)**
+6. Export your model as fbx with scale set to 0.01 and Add Leaf Bones option unchecked
+7. Import it to this project.
+8. While in import settings select SKEL_CPS1999_Spyro from the skeleton selection.
+9. Cook and pak only your model.
