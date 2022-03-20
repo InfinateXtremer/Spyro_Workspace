@@ -25,9 +25,7 @@ Requirements:
 TODO:
 
 * Animate all the additive animations.
-* Add all the missing animation notifiers.
 * Create a blend file with Spyro's mesh.
-* Create 3D eyes or animate 2D eye curves.
 
 Anim Notify Information:
 
@@ -48,3 +46,7 @@ Anim Notify Information:
 7. Import it to this project.
 8. While in import settings select SKEL_CPS1999_Spyro from the skeleton selection.
 9. Cook and pak only your model.
+
+## Custom Skeleton Requirements:
+1. Bone names needs to match up with reignited one otherwise game will crash. TODO:Check and see which bone names crash the game.
+2. Make sure sockets are created.
