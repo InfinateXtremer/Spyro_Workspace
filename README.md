@@ -1,6 +1,14 @@
 # Spyro Model Workspace For SRT
 A workspace with exported mesh, animations and Unreal Engine project
 
+----
+
+### Current Issues:
+1. Spyro's animation for The adventure continues screen is not correctly animated.
+2. Some additives are not exactly 1:1 with vanilla animations due to unable to export them.
+
+----
+
 #### We ask you to not use this project in paid projects/commissions as these assets are recreations but if you will please include a link to this project.
 
 
