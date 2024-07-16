@@ -27,8 +27,8 @@ Requirements:
 
 **Blender 2.8+** .BLEND files are provided to create your own custom animations. 
 
-RumbleAnimations.blend > Crash Team Rumble Animations.
-Spyro_3D_Eyes_Additives_Final.blend > Additive Animations and Poses.
+RumbleAnimations.blend > Crash Team Rumble Animations.  
+Spyro_3D_Eyes_Additives_Final.blend > Additive Animations and Poses.  
 Spyro_Animations_Finalizing.blend > Vanilla Animations.
 
 ---
